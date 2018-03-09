@@ -1,4 +1,13 @@
+#Analysis Report
+1. 81% of players are male which also make the most of the percentage of the revenue.
+2. The game is most popular among the age group of 15 years to 25 years  and after that age group there is drastic decline in player's interest.
+3. The most popular items are below the average price of most of the items.
+4. However the most popular items are not the most profitable items. The most profitable items are the item number 34 and 115 which are more pricy.
 
+
+
+
+# Code
 
 ```python
 import pandas as pd
